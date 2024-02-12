@@ -52,3 +52,4 @@ export const DELETE = async (request, { params }) => {
         return new Response("Error deleting prompt", { status: 500 });
     }
 };
+
