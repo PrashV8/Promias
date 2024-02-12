@@ -4,7 +4,7 @@ import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 
 export const metadata = {
-  title: "Promias",
+  title: "Promptopia",
   description: "Discover & Share AI Prompts",
 };
 
